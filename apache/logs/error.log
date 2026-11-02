@@ -1,0 +1,19 @@
+[Sun Oct 25 14:49:19.374099 2026] [ssl:warn] [pid 1184:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 25 14:49:19.440236 2026] [ssl:warn] [pid 1184:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: \\xampp\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), \\xampp\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Sun Oct 25 14:49:20.361956 2026] [mpm_winnt:notice] [pid 1184:tid 364] AH00455: Apache/2.4.65 (Win64) OpenSSL/3.5.1 PHP/8.5.12 configured -- resuming normal operations
+[Sun Oct 25 14:49:20.361956 2026] [mpm_winnt:notice] [pid 1184:tid 364] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Oct 25 14:49:20.361956 2026] [core:notice] [pid 1184:tid 364] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 25 14:49:20.383129 2026] [mpm_winnt:notice] [pid 1184:tid 364] AH00418: Parent: Created child process 22200
+[Sun Oct 25 14:49:21.758674 2026] [ssl:warn] [pid 22200:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 25 14:49:21.837732 2026] [ssl:warn] [pid 22200:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\xampp\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Sun Oct 25 14:49:21.952158 2026] [mpm_winnt:notice] [pid 22200:tid 372] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 25 14:52:55.540173 2026] [ssl:warn] [pid 9096:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 25 14:52:55.589620 2026] [ssl:warn] [pid 9096:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\xampp\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Sun Oct 25 14:52:55.712968 2026] [mpm_winnt:notice] [pid 9096:tid 400] AH00455: Apache/2.4.65 (Win64) OpenSSL/3.5.1 PHP/8.5.12 configured -- resuming normal operations
+[Sun Oct 25 14:52:55.712968 2026] [mpm_winnt:notice] [pid 9096:tid 400] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Oct 25 14:52:55.712968 2026] [core:notice] [pid 9096:tid 400] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Oct 25 14:52:55.727898 2026] [mpm_winnt:notice] [pid 9096:tid 400] AH00418: Parent: Created child process 2320
+[Sun Oct 25 14:52:56.227067 2026] [ssl:warn] [pid 2320:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
